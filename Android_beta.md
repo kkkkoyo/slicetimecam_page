@@ -1,4 +1,4 @@
-### SliceTimeCam - Android beta version
+### 📸SliceTimeCam - Android beta version📸
 
 
 <img src="https://user-images.githubusercontent.com/19504762/134522734-5758394f-dc19-4e0d-988f-36c2fe58d64a.jpg" width="200">
@@ -10,11 +10,11 @@ I would appreciate your help with feedback as I want to check the camera behavio
 
 ### Install link
 
-https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam
+[https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam](https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam)
 
 ### 2. Test flow 
 
-Link : https://www.youtube.com/watch?v=fnVwfS4r8q4
+Link : [https://www.youtube.com/watch?v=fnVwfS4r8q4](https://www.youtube.com/watch?v=fnVwfS4r8q4)
 
 Test flow for Android beta version
 
@@ -36,12 +36,11 @@ SliceTimeCamのAndroidバージョンのBeta版を公開しました🎉
 
 ### インストールリンク
 
-https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam
+[https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam](https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam)
 
 ### 2. 動作の確認 
 
-Link : https://www.youtube.com/watch?v=fnVwfS4r8q4
-
+[https://www.youtube.com/watch?v=fnVwfS4r8q4](https://www.youtube.com/watch?v=fnVwfS4r8q4)
 
 Android beta版のテストフロー
 
