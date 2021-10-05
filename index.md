@@ -3,3 +3,16 @@
 
 
 [@slicetimecam](https://www.instagram.com/slicetimecam/)
+
+### App
+- [App Store](https://apps.apple.com/app/id1584533462)
+
+
+
+### プライバシーポリシー (Privacy Policy)
+- [日本語](./privacypolicy_ja.md)
+- [English](./privacypolicy_ja.md)
+
+### 利用規約 (Terms)
+- [日本語](./terms_ja.md)
+- [English](./terms.md)
