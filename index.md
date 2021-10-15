@@ -5,7 +5,8 @@
 [@slicetimecam](https://www.instagram.com/slicetimecam/)
 
 ### App
-- [App Store](https://apps.apple.com/app/id1584533462)
+- [App Store (iOS)](https://apps.apple.com/app/id1584533462)
+- [Google Play (Android)](https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam)
 
 
 
@@ -13,6 +14,6 @@
 - [日本語](./privacypolicy_ja.md)
 - [English](./privacypolicy.md)
 
-### 利用規約 (Terms)
+### 利用規約 (Terms of Use)
 - [日本語](./terms_ja.md)
 - [English](./terms.md)
