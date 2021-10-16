@@ -17,3 +17,10 @@
 ### 利用規約 (Terms of Use)
 - [日本語](./terms_ja.md)
 - [English](./terms.md)
+
+----
+
+##### Developer @koyoarai_
+
+- [Twitter @koyoarai_](https://twitter.com/koyoarai_)
+- [Instagram @koyoarai_](https://instagram.com/koyoarai_)
