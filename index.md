@@ -7,6 +7,7 @@
 ## App
 - [App Store (iOS)](https://apps.apple.com/app/id1584533462)
 - [Google Play (Android)](https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam)
+- [HUAWEI AppGallery](https://appgallery.huawei.com/#/app/C104934843)
 
 ---
 
