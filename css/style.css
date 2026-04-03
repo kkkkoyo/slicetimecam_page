@@ -489,6 +489,53 @@ html, body {
   }
 }
 
+.support {
+  background: #2e3a30;
+}
+.support__container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 90px 0;
+}
+@media only screen and (max-width: 767px) {
+  .support__container {
+    width: 90%;
+    padding: 42px 0;
+  }
+}
+.support__desc {
+  line-height: 1.7;
+  margin: 0 0 20px;
+}
+@media only screen and (max-width: 767px) {
+  .support__desc {
+    font-size: 14px;
+  }
+}
+.support__list {
+  list-style: disc;
+  padding-left: 1.4em;
+  line-height: 1.7;
+  margin: 0 0 20px;
+}
+@media only screen and (max-width: 767px) {
+  .support__list {
+    font-size: 14px;
+  }
+}
+.support__date {
+  font-size: 12px;
+  color: #888;
+  margin: -32px 0 32px;
+}
+.support a {
+  color: inherit;
+  text-decoration: underline;
+}
+.support a:hover {
+  opacity: 0.7;
+}
+
 .otherLink {
   background: #727272;
 }
